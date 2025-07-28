@@ -24,11 +24,12 @@ I'm currently pursuing a **BSc (Hons) in Computer Science** at the **University 
 ![Postman](https://img.shields.io/badge/Postman-F26B00?style=for-the-badge&logo=postman&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
+## 📊 GitHub Stats & 🔥 Streak
 
-# 📊 GitHub Stats
-![Thusani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thusaniv&show_icons=true&theme=radical)
-# 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Thusaniv&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thusaniv&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thusaniv&theme=radical" width="48%" />
+</div>
 
 ## 🌐 Portfolio & Contact
 
