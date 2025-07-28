@@ -25,9 +25,9 @@ I'm currently pursuing a **BSc (Hons) in Computer Science** at the **University 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 ![Thusani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thusaniv&show_icons=true&theme=radical)
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Thusaniv&theme=radical)
 
 ## 🌐 Portfolio & Contact
