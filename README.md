@@ -27,8 +27,7 @@ I'm currently pursuing a **BSc (Hons) in Computer Science** at the **University 
 ## 📊 GitHub Stats & 🔥 Streak
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thusaniv&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thusaniv&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thusaniv&theme=radical" width="50%" />
 </div>
 
 ## 🌐 Portfolio & Contact
